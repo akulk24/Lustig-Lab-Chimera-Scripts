@@ -1,0 +1,7 @@
+open 1gsk
+open P07788 from alphafold
+matchmaker #1 to #2
+morph #1,2
+~disp
+sequence chain #1 /a
+sequence chain #2 /a
